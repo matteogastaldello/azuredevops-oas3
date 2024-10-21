@@ -23,7 +23,7 @@ paths:
   /ws/{organization}/{project}/_apis/pipelines/pipelinepermissions/{resourceType}/{resourceId}:
     post:
       servers:
-        - url: https://brown-yaks-live.loca.lt
+        - url: https://olive-owls-talk.loca.lt
       tags:
         - pipeline-permission-cli
       operationId: getPipelinePermissions
